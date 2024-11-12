@@ -381,3 +381,209 @@
         margin-bottom: 0;
     }
 }
+
+/**page-company-profile**/
+
+.company-profile__info{
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.company-profile__info-left{
+    width: 100%;
+    max-width: 630px;
+    aspect-ratio: 630 / 242;
+    color: #FFFFFF;
+    background: #E60012;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 120px;
+    padding-right: 174px;
+}
+
+.company-profile__info-left__1{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.company-profile__info-right{
+    width: 100%;
+    max-width: 770px;
+    background: #F5F5F5;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+}
+
+.company-profile__info-right__1{
+    font-size: 16px;
+}
+
+.company-profile__info-right__2{
+    font-size: 30px;
+}
+
+.company-profile__info-right__left{
+    border-right: #E60012 1px solid;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.company-profile__info-right__right{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.company-profile__info-right__4{
+    color: #3E3232;
+    border: #000000 1px solid;
+    background: #FFFFFF;
+    padding: 10px 30px;
+}
+
+/**page-news.php**/
+
+.page-news-li{
+    list-style: none;
+    border-bottom: #707070 1px solid;
+    padding: 5px 5px;
+}
+
+.page-news-ul{
+    padding: 0;
+}
+
+@media(min-width :765px){
+
+.page-news-ul{
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    margin: 0 -14.3%;
+}
+
+.page-news-ul > .page-news-li:first-of-type > .page-news-li__date{
+    border-top: #3E3232 5px solid;
+}
+
+.page-news-ul > .page-news-li:first-of-type > .page-news-li__content{
+    border-top: #707070 5px solid;
+}
+
+.page-news-li{
+    display: flex;
+    list-style: none;
+    width: 52%;
+    border-bottom: #707070 1px solid;
+}
+
+.page-news-li__date{
+    width: 29%;
+    margin: 0;
+    padding: 15px 20px;
+    background: #F5F5F5;
+}
+
+.page-news-li__content{
+    width: 71%;
+    margin: 0;
+    padding: 15px 20px;
+}
+
+}
+
+/**contact**/
+
+/* 全体のフォームコンテナ */
+
+.info-h1{
+    text-align: center;
+}
+
+.wpcf7-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* ラベルのスタイル */
+.wpcf7-form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* 各フィールドのスタイル */
+.wpcf7-form input[type="text"],
+.wpcf7-form input[type="email"],
+.wpcf7-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    color: #333;
+}
+
+/* テキストエリアのスタイル */
+.wpcf7-form textarea {
+    height: 150px;
+}
+
+/* 送信ボタンのスタイル */
+.wpcf7-form input[type="submit"] {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #0073aa;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+/* 送信ボタンのホバースタイル */
+.wpcf7-form input[type="submit"]:hover {
+    background-color: #005a8c;
+}
+
+/* 特定のクラスに追加のスタイルを適用 */
+.c-name,
+.c-address,
+.c-subject,
+.c-content {
+    margin-bottom: 20px;
+}
+
+/* レスポンシブ対応 */
+@media (max-width: 600px) {
+    .wpcf7-form {
+        padding: 15px;
+    }
+
+    .wpcf7-form label {
+        font-size: 14px;
+    }
+
+    .wpcf7-form input[type="text"],
+    .wpcf7-form input[type="email"],
+    .wpcf7-form textarea,
+    .wpcf7-form input[type="submit"] {
+        font-size: 14px;
+    }
+}

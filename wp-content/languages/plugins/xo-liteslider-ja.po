@@ -1,0 +1,538 @@
+# Translation of Plugins - XO Slider - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - XO Slider - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-12-23 10:53:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - XO Slider - Stable (latest release)\n"
+
+#: templates/thumbnail/template.php:49
+msgid "A template that displays a slider with thumbnails. Supports videos."
+msgstr "サムネイル付きのスライダーを表示するテンプレートです。動画をサポートしています。"
+
+#: inc/class-xo-slider.php:156 inc/class-xo-slider.php:157
+msgid "Add New Slider"
+msgstr "新規スライダーを追加"
+
+#: inc/class-xo-slider-admin.php:803
+msgid "All"
+msgstr "すべて"
+
+#: inc/class-xo-slider-admin.php:796
+msgid "Image height:"
+msgstr "画像の高さ:"
+
+#: inc/class-xo-slider-admin.php:794
+msgid "Image width:"
+msgstr "画像の幅:"
+
+#: inc/class-xo-slider-admin.php:810
+msgid "Top margin:"
+msgstr "上マージン:"
+
+#: inc/class-xo-slider-admin.php:295
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: inc/class-xo-slider-admin.php:388 inc/class-xo-slider-admin.php:389
+msgid "Delete plugin data"
+msgstr "プラグインデータを削除する"
+
+#: inc/class-xo-slider-admin.php:375
+msgid "8 series"
+msgstr "8系"
+
+#: inc/class-xo-slider-admin.php:374
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/class-xo-slider-admin.php:330
+msgid "Processing when deleting plugin"
+msgstr "プラグイン削除時の処理"
+
+#: inc/class-xo-slider-admin.php:328 inc/class-xo-slider-admin.php:372
+msgid "Swiper version"
+msgstr "Swiper のバージョン"
+
+#: inc/class-xo-slider-admin.php:327
+msgid "Templates CSS"
+msgstr "テンプレート CSS"
+
+#: inc/class-xo-slider-admin.php:764
+msgid "Centered Slides:"
+msgstr "中央配置:"
+
+#: inc/class-xo-slider-admin.php:360
+msgid "Typically, you should choose to place it in the footer."
+msgstr "通常は、フッターに配置を選択してください。"
+
+#: inc/class-xo-slider-admin.php:358
+msgid "Place in footer"
+msgstr "フッターに配置"
+
+#: inc/class-xo-slider-admin.php:357
+msgid "Place in header"
+msgstr "ヘッダーに配置"
+
+#: inc/class-xo-slider-admin.php:356
+msgid "Do not include"
+msgstr "組み込まない"
+
+#: inc/class-xo-slider-admin.php:290
+msgid "XO Slider Settings"
+msgstr "XO Slider 設定"
+
+#: inc/class-xo-slider-admin.php:278
+msgid "CSS location specifies where to place the CSS for the template and slider. Placement in header means that all template styles will be incorporated into the header of all pages. Header placement means that the styles of all templates will be incorporated into the header of all pages."
+msgstr "CSS の配置場所は、テンプレートとスライダーの CSS を配置する場所を指定します。ヘッダーに配置は、すべてのテンプレートのスタイルが、すべてのページのヘッダーに組み込まれます。フッターに配置は、使用テンプレートが使用ページのフッターに組み込まれます。"
+
+#: inc/class-xo-slider-admin.php:277 inc/class-xo-slider-admin.php:354
+msgid "CSS location"
+msgstr "CSS の配置場所"
+
+#: inc/class-xo-slider-admin.php:271
+msgid "This screen allows you to configure the XO Slider."
+msgstr "この画面では、XO Slider の設定を行います。"
+
+#: inc/class-xo-slider-admin.php:270
+msgid "Overview"
+msgstr "概要"
+
+#: inc/class-xo-slider-admin.php:256
+msgid "Settings"
+msgstr "設定"
+
+#: inc/class-xo-slider-admin.php:561 inc/class-xo-slider-admin.php:579
+msgid "Open in new window:"
+msgstr "新しいウィンドウで開く:"
+
+#: inc/class-xo-slider-admin.php:600
+msgid "None"
+msgstr "なし"
+
+#: inc/class-xo-slider-admin.php:599
+msgid "Metadata"
+msgstr "メタデータ"
+
+#: inc/class-xo-slider-admin.php:598 inc/class-xo-slider-admin.php:802
+msgid "Auto"
+msgstr "自動"
+
+#: inc/class-xo-slider-admin.php:596
+msgid "Preload:"
+msgstr "先読み:"
+
+#: inc/class-xo-slider-admin.php:594
+msgid "Play inline:"
+msgstr "インラインで再生:"
+
+#: inc/class-xo-slider-admin.php:592
+msgid "Playback controls:"
+msgstr "プレイバックコントロール:"
+
+#: inc/class-xo-slider-admin.php:590
+msgid "Muted:"
+msgstr "ミュート (消音) :"
+
+#: inc/class-xo-slider-admin.php:552
+msgid "Video"
+msgstr "動画"
+
+#: inc/class-xo-slider-admin.php:542
+msgid "Clear Media"
+msgstr "メディアをクリア"
+
+#: inc/class-xo-slider-admin.php:86
+msgid "Select"
+msgstr "選択"
+
+#: inc/class-xo-slider-admin.php:85 inc/class-xo-slider-admin.php:524
+#: inc/class-xo-slider-admin.php:526 inc/class-xo-slider-admin.php:533
+#: inc/class-xo-slider-admin.php:535
+msgid "Select Media"
+msgstr "メディアを選択"
+
+#: templates/video/template.php:49
+msgid "A template that displays a video."
+msgstr "動画に適したテンプレートです。"
+
+#: templates/coverflow/template.php:49
+msgid "A template that displays a slider for a 3D coverflow effect. Video is not supported."
+msgstr "3D カバーフロー効果のスライダーを表示するテンプレートです。動画はサポートされていません。"
+
+#: inc/class-xo-slider-admin.php:760 inc/class-xo-slider-admin.php:800
+msgid "View unit:"
+msgstr "表示単位:"
+
+#: inc/class-xo-slider-admin.php:758
+msgid "Group unit:"
+msgstr "グループ単位:"
+
+#: inc/class-xo-slider-admin.php:718
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: inc/class-xo-slider-admin.php:717
+msgid "Autoplay"
+msgstr "自動再生"
+
+#: inc/class-xo-slider-admin.php:716
+msgid "Basic"
+msgstr "基本"
+
+#: inc/class-xo-slider-widget.php:18
+msgid "Slider (XO Slider)"
+msgstr "スライダー (XO Slider)"
+
+#: inc/class-xo-slider-admin.php:838
+msgid "Template:"
+msgstr "テンプレート:"
+
+#: inc/class-xo-slider-admin.php:829
+msgid "Template not found."
+msgstr "テンプレートが見つかりません。"
+
+#: inc/class-xo-slider-admin.php:781
+msgid "Disable on interaction:"
+msgstr "操作で停止:"
+
+#: inc/class-xo-slider-admin.php:779
+msgid "Stop on last slide:"
+msgstr "最後で停止:"
+
+#: inc/class-xo-slider-admin.php:586 inc/class-xo-slider-admin.php:774
+msgid "Autoplay:"
+msgstr "自動再生:"
+
+#: inc/class-xo-slider-admin.php:768
+msgid "Width and height are optional. Some parameters may not be reflected in some templates."
+msgstr "幅、高さは省略可能です。テンプレートによっては反映されないパラメータもあります。"
+
+#: inc/class-xo-slider-admin.php:762 inc/class-xo-slider-admin.php:808
+msgid "Space between:"
+msgstr "間のスペース:"
+
+#: inc/class-xo-slider-admin.php:756
+msgid "Auto height:"
+msgstr "自動高さ調整:"
+
+#: inc/class-xo-slider-admin.php:588 inc/class-xo-slider-admin.php:752
+msgid "Loop:"
+msgstr "ループ:"
+
+#: inc/class-xo-slider-admin.php:578
+msgid "Button link (URL):"
+msgstr "ボタンのリンク (URL):"
+
+#: inc/class-xo-slider-admin.php:576
+msgid "Button text:"
+msgstr "ボタンのテキスト:"
+
+#: inc/class-xo-slider-admin.php:574
+msgid "Subtitle:"
+msgstr "サブタイトル:"
+
+#: inc/class-xo-slider-admin.php:558
+msgid "Alt text (alternative text):"
+msgstr "Alt テキスト (代替テキスト):"
+
+#: inc/class-xo-slider-admin.php:556
+msgid "Title Attribute:"
+msgstr "タイトル属性:"
+
+#: inc/class-xo-slider-admin.php:551
+msgid "Option"
+msgstr "オプション"
+
+#: inc/class-xo-slider-admin.php:550
+msgid "Content"
+msgstr "コンテンツ"
+
+#: inc/class-xo-slider-admin.php:549
+msgid "Image"
+msgstr "画像"
+
+#: inc/class-xo-slider-admin.php:319
+msgid "Template"
+msgstr "テンプレート"
+
+#: templates/default/template.php:49
+msgid "A simple template to display content (title, subtitle, content and buttons)."
+msgstr "コンテンツ (タイトル、サブタイトル、コンテンツおよびボタン) を表示するシンプルなテンプレートです。"
+
+#: templates/parallax/template.php:49
+msgid "This template displays the parallax effect slider. The first image will be used. The only animation effect is \"Slide\". Video is not supported."
+msgstr "パララックス効果のスライダーを表示するテンプレートです。最初の画像を使用します。アニメーション効果は「スライド」のみです。動画はサポートされていません。"
+
+#: templates/simple/template.php:49
+msgid "It is a simple template. Great for customizing content."
+msgstr "シンプルなテンプレートです。コンテンツのカスタマイズに最適です。"
+
+#. Author of the plugin
+#: xo-liteslider.php
+msgid "Xakuro"
+msgstr "Xakuro"
+
+#. Description of the plugin
+#: xo-liteslider.php
+msgid "XO Slider is a plugin that allows you to easily create sliders."
+msgstr "XO Slider はスライダーを簡単に作成できるプラグインです。"
+
+#. Plugin Name of the plugin
+#: xo-liteslider.php build/index.js:1
+msgid "XO Slider"
+msgstr "XO Slider"
+
+#. Author URI of the plugin
+#: xo-liteslider.php
+msgid "https://xakuro.com/"
+msgstr "https://xakuro.com/"
+
+#. Plugin URI of the plugin
+#: xo-liteslider.php
+msgid "https://xakuro.com/wordpress/"
+msgstr "https://xakuro.com/wordpress/"
+
+#: inc/class-xo-slider-widget.php:75
+msgid "Slider:"
+msgstr "スライダー: "
+
+#: inc/class-xo-slider-widget.php:21
+msgid "Display Slider"
+msgstr "スライダーを表示"
+
+#: inc/class-xo-slider-admin.php:879
+msgid "Parameter default will be the oldest slider."
+msgstr "パラメーター省略時は最初のスライダーになります。"
+
+#: inc/class-xo-slider-admin.php:876
+msgid "Template tag:"
+msgstr "テンプレートタグ:"
+
+#: inc/class-xo-slider-admin.php:873
+msgid "Shortcode:"
+msgstr "ショートコード:"
+
+#: inc/class-xo-slider-admin.php:749
+msgid "Random"
+msgstr "ランダム"
+
+#: inc/class-xo-slider-admin.php:748
+msgid "Descending order"
+msgstr "降順"
+
+#: inc/class-xo-slider-admin.php:747
+msgid "Ascending order"
+msgstr "昇順"
+
+#: inc/class-xo-slider-admin.php:745
+msgid "Order:"
+msgstr "表示順: "
+
+#: inc/class-xo-slider-admin.php:743
+msgid "Content:"
+msgstr "コンテンツ: "
+
+#: inc/class-xo-slider-admin.php:754
+msgid "Effect speed:"
+msgstr "効果速度:"
+
+#: inc/class-xo-slider-admin.php:755 inc/class-xo-slider-admin.php:777
+msgid "ms"
+msgstr "ミリ秒"
+
+#: inc/class-xo-slider-admin.php:776
+msgid "Delay:"
+msgstr "遅延:"
+
+#: inc/class-xo-slider-admin.php:741
+msgid "Pagination:"
+msgstr "ページネーション: "
+
+#: inc/class-xo-slider-admin.php:739 inc/class-xo-slider-admin.php:798
+msgid "Navigation:"
+msgstr "ナビゲーション: "
+
+#: inc/class-xo-slider-admin.php:728
+msgid "Effect:"
+msgstr "効果: "
+
+#: inc/class-xo-slider-admin.php:726 inc/class-xo-slider-admin.php:792
+msgid "Height:"
+msgstr "高さ: "
+
+#: inc/class-xo-slider-admin.php:724 inc/class-xo-slider-admin.php:790
+msgid "Width:"
+msgstr "幅: "
+
+#: inc/class-xo-slider-admin.php:567
+msgid "Content (HTML):"
+msgstr "コンテンツ (HTML): "
+
+#: inc/class-xo-slider-admin.php:560
+msgid "Link (URL):"
+msgstr "リンク (URL): "
+
+#: inc/class-xo-slider-admin.php:572 inc/class-xo-slider-widget.php:54
+msgid "Title:"
+msgstr "タイトル： "
+
+#: inc/class-xo-slider-admin.php:515
+msgid "Delete Slide"
+msgstr "スライド削除"
+
+#: inc/class-xo-slider-admin.php:514
+msgid "Add Slide"
+msgstr "スライド追加"
+
+#: inc/class-xo-slider-admin.php:471
+msgid "Drag the header of each item to change the order."
+msgstr "各項目のヘッダーをドラッグして順番を変更します。"
+
+#: inc/class-xo-slider-admin.php:425 inc/class-xo-slider-admin.php:426
+msgid "Update"
+msgstr "保存する"
+
+#: inc/class-xo-slider-admin.php:422
+msgid "Publish"
+msgstr "発行"
+
+#: inc/class-xo-slider-admin.php:413
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動する"
+
+#: inc/class-xo-slider-admin.php:411
+msgid "Delete Permanently"
+msgstr "完全削除"
+
+#: inc/class-xo-slider-admin.php:322 inc/class-xo-slider-admin.php:404
+#: inc/class-xo-slider-admin.php:423
+msgid "Save"
+msgstr "保存する"
+
+#: inc/class-xo-slider-admin.php:321
+msgid "Usage"
+msgstr "使用法"
+
+#: inc/class-xo-slider-admin.php:320
+msgid "Parameter"
+msgstr "パラメーター"
+
+#: inc/class-xo-slider-admin.php:318
+msgid "Slides"
+msgstr "スライド"
+
+#. translators: %s: Number of posts.
+#: inc/class-xo-slider-admin.php:136
+msgid "%s slider restored from the Trash."
+msgid_plural "%s sliders restored from the Trash."
+msgstr[0] "%s件のスライダーをゴミ箱から復元しました。"
+
+#. translators: %s: Number of posts.
+#: inc/class-xo-slider-admin.php:134
+msgid "%s slider moved to the Trash."
+msgid_plural "%s sliders moved to the Trash."
+msgstr[0] "%s件のスライダーをゴミ箱へ移動しました。"
+
+#. translators: %s: Number of posts.
+#: inc/class-xo-slider-admin.php:132
+msgid "%s slidert permanently deleted."
+msgid_plural "%s sliders permanently deleted."
+msgstr[0] "%s件のスライダーを永久に削除しました。"
+
+#. translators: %s: Number of posts.
+#: inc/class-xo-slider-admin.php:130
+msgid "%s slidert not updated, somebody is editing it."
+msgid_plural "%s slider not updated, somebody is editing them."
+msgstr[0] "%s件のスライダーを更新できませんでした。他の人が編集中です。"
+
+#. translators: %s: Number of posts.
+#: inc/class-xo-slider-admin.php:128
+msgid "%s slider updated."
+msgid_plural "%s sliders updated."
+msgstr[0] "%s件のスライダーを更新しました。"
+
+#: inc/class-xo-slider-admin.php:114
+msgid "Slider draft updated."
+msgstr "スライダーの下書きを更新しました。"
+
+#. translators: 1: Publishing time.
+#: inc/class-xo-slider-admin.php:113
+msgid "M j, Y @ G:i"
+msgstr "Y年n月j日 @ G:i"
+
+#. translators: 1: Publishing time.
+#: inc/class-xo-slider-admin.php:113
+msgid "Slider scheduled for: <strong>%1$s</strong>."
+msgstr "スライダーを<strong>%1$s</strong>に公開するよう予約しました。"
+
+#: inc/class-xo-slider-admin.php:111
+msgid "Slider submitted."
+msgstr "スライダーを作成しました。"
+
+#: inc/class-xo-slider-admin.php:110
+msgid "Slider saved."
+msgstr "スライダーを保存しました。"
+
+#: inc/class-xo-slider-admin.php:109
+msgid "Slider published."
+msgstr "スライダーが公開されました。"
+
+#. translators: %s: Retrieves formatted date timestamp.
+#: inc/class-xo-slider-admin.php:108
+msgid "Slider restored to revision from %s."
+msgstr "リビジョン %s からスライダーを復元しました。"
+
+#: inc/class-xo-slider-admin.php:105
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました。"
+
+#: inc/class-xo-slider-admin.php:104
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました。"
+
+#: inc/class-xo-slider-admin.php:103 inc/class-xo-slider-admin.php:106
+msgid "Slider updated."
+msgstr "スライダーを更新しました。"
+
+#: inc/class-xo-slider.php:163
+msgid "No sliders found in Trash"
+msgstr "ゴミ箱にスライダーはありません"
+
+#: inc/class-xo-slider.php:162
+msgid "No sliders found"
+msgstr "スライダーはありません"
+
+#: inc/class-xo-slider.php:161
+msgid "Search Slider"
+msgstr "スライダーを検索"
+
+#: inc/class-xo-slider.php:160
+msgid "View Slider"
+msgstr "スライダーを表示"
+
+#: inc/class-xo-slider.php:159
+msgid "New Slider"
+msgstr "新しいスライダー"
+
+#: inc/class-xo-slider.php:158
+msgid "Edit Slider"
+msgstr "スライダーを編集"
+
+#: inc/class-xo-slider.php:155
+msgid "All Sliders"
+msgstr "スライド一覧"
+
+#: inc/class-xo-slider.php:152 build/index.js:1
+msgid "Slider"
+msgstr "スライダー"
+
+#: inc/class-xo-slider.php:151 inc/class-xo-slider.php:153
+#: inc/class-xo-slider.php:154
+msgid "Sliders"
+msgstr "スライダー"

@@ -3,11 +3,15 @@ document.addEventListener('DOMContentLoaded', function() {
     var nav = document.getElementById('nav');
     var closeMenu = document.getElementById('close-menu');
 
-    menuToggle.addEventListener('click', function() {
-        nav.classList.toggle('show');
-    });
+    if (menuToggle && nav) {
+        menuToggle.addEventListener('click', function() {
+            nav.classList.toggle('show');
+        });
+    }
 
-    closeMenu.addEventListener('click', function() {
-        nav.classList.remove('show');
-    });
+    if (closeMenu && nav) {
+        closeMenu.addEventListener('click', function() {
+            nav.classList.remove('show');
+        });
+    }
 });
